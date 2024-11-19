@@ -15,3 +15,9 @@
 <h2>Then I have created the environment that created animated character is going to deploy. I have added a plane and modified it with grass texture and changed its physics to look real. Then I created a tree by using sapling tree gen addon in blender. Then after that I used a cube to change its physical shape into a rock by using the modifier subdivision surface. More importantly I have used two suns to balance the lightning effects.</h2>
 <h2>After completing the major parts of the development of 3D character and next to that I have completed the animation part. At first, I selected armature and object body and pressed ctrl + p to transform all then it integrated together after that I generated a rig. By using pose mode, I have made the movements precisely accordingly to the time frames and saved it all for the final animation.
 And then by choosing correct key frames I adjusted the rigging of the character step by step and finally created an animation for 130 frames.</h2>
+<br><br>
+
+
+https://github.com/user-attachments/assets/ea954583-a5f5-4dca-8299-33d6739e6dac
+
+
